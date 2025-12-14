@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>bgi/gym.jpg</file>
+        <file>bgi/memberlogingym.jpg</file>
+        <file>bgi/memberloginpadel.jpg</file>
+        <file>bgi/padel.jpg</file>
+        <file>bgi/stafflogingym.jpg</file>
+        <file>bgi/staffloginpadel.jpg</file>
+        <file>bgi/start.jpg</file>
+        <file>bgi/member menu.jpg</file>
+        <file>bgi/add workout.jpg</file>
+        <file>bgi/monthly mins.jpg</file>
+        <file>bgi/number of workouts.jpg</file>
+        <file>bgi/renew subscription.jpg</file>
+        <file>bgi/total mins.jpg</file>
+        <file>bgi/view recent workout.jpg</file>
+        <file>bgi/yearly mins.jpg</file>
+        <file>bgi/your info.jpg</file>
+        <file>bgi/booking.jpg</file>
+        <file>bgi/cancel booking.jpg</file>
+        <file>bgi/add member.jpg</file>
+        <file>bgi/add new staff.jpg</file>
+        <file>bgi/admin menu.jpg</file>
+        <file>bgi/assigned classes.jpg</file>
+        <file>bgi/bookings by day.jpg</file>
+        <file>bgi/check availability.jpg</file>
+        <file>bgi/choose court to book.jpg</file>
+        <file>bgi/choose day and time.jpg</file>
+        <file>bgi/choose day of waiting list.jpg</file>
+        <file>bgi/choose day to view bookings.jpg</file>
+        <file>bgi/coach menu.jpg</file>
+        <file>bgi/court to cancel.jpg</file>
+        <file>bgi/day and time to cancel.jpg</file>
+        <file>bgi/delete member.jpg</file>
+        <file>bgi/manager menu.jpg</file>
+        <file>bgi/member list.jpg</file>
+        <file>bgi/member menu padel.jpg</file>
+        <file>bgi/Member menu.jpg</file>
+        <file>bgi/modify member id.jpg</file>
+        <file>bgi/receptionist menu.jpg</file>
+        <file>bgi/renew receptionist.jpg</file>
+        <file>bgi/search members.jpg</file>
+        <file>bgi/staff list.jpg</file>
+        <file>bgi/view all bookings.jpg</file>
+        <file>bgi/view availability.jpg</file>
+        <file>bgi/view gym classes.jpg</file>
+        <file>bgi/view my bookings.jpg</file>
+        <file>bgi/view waiting list.jpg</file>
+        <file>bgi/choose what you want.jpg</file>
+        <file>bgi/add gym classes.png</file>
+    </qresource>
+</RCC>
